@@ -1,3 +1,24 @@
+
+Instruction to run the code
+
+1) Make sure your working directory is where the R files are
+
+2) Source ("./plot1.R")
+3) plot1()
+
+2) Source ("./plot2.R")
+3) plot2()
+
+2) Source ("./plot3.R")
+3) plot3()
+
+2) Source ("./plot4.R")
+3) plot4()
+
+The above instructions create 4 png files.
+
+
+
 ## Introduction
 
 This assignment uses data from
